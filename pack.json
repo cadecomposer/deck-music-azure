@@ -1,0 +1,10 @@
+{
+  "name": "azure tides",
+  "description": "ambient loop that i wrote, meant to evoke early 2000's nostalgia, pairs nicely with 'azure sounds'",
+  "author": "cadecomposer",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
